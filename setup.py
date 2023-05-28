@@ -17,7 +17,7 @@ def get_requirements(file_path:str)->List[str]:
 
 setup(
     name='RegressorProject',
-    version='0.0.1',
+    version='0.0.2',
     author='Nehal',
     author_email='nehal561@gmail.com',
     install_requires=get_requirements('requirements.txt'),
